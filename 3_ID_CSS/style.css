@@ -1,0 +1,36 @@
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(8, 3, 93);
+    font-size: 40px;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 25px;
+}
+
+.mafagafos {
+    color: rgb(87, 81, 191);
+}
+
+.magafafos {
+    color: rgb(87, 81, 191);
+}
+
+.titulin {
+    color: navy;
+}
+
+.big_tasty {
+    font-size: 60px;
+}
+
+#megalocefalo {
+    color: rgb(8, 3, 93);
+    background: pink ;
+}
+
+#melogacelafo {
+    color: rgb(8, 3, 93);
+    background: pink ;
+}
