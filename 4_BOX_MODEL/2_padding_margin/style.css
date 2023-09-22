@@ -1,0 +1,23 @@
+div {
+    border: 4px dotted blue;
+    width: fit-content;
+    font-size: 24px;
+/* 
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px; */
+
+    padding: 20px; 
+
+    /* 2 valores o 1° representa top e bottom e o 2° representa o left e o right */
+    padding: 30px 50px; 
+    /* 3 valores o 1° top o 2° left e right e o 3° representa bottom*/
+
+    padding: 20px 50px 5px;
+    /* 4 valores 1° top 2° right 3° bottom 4° left */
+    padding: 30px 90px 70px 90px;
+
+    padding-inline: 40px;
+    padding-block: 20px;
+}
